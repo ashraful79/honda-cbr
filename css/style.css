@@ -21,9 +21,10 @@
     margin-left: 50px;
 }
 .honda-circle{
-    width: 149px;
-    height: 149px;
-    padding-left: 20px;
+    width: 160px;
+    height: 160px;
+    margin:20px;
+    margin-left:65px;
 }
 
 .fa-star{
@@ -34,6 +35,9 @@
 }
 .fa-star.empty{
     color:#AEAEAE;
+}
+section{
+    overflow:hidden
 }
 
 
