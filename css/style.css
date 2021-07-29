@@ -1,0 +1,39 @@
+.honda-bg-info{
+    background-color: #264653;
+    width: 100%;
+    
+}
+.honda-text-danger{
+    color: #E76F51;
+    
+}
+.honda-1{
+    padding: 180px;
+}
+.honda-text{
+    color: #E0E0E0;
+}
+.honda-2{
+    background-color: #E76F51;
+    
+}
+.honda-img{
+    margin-left: 50px;
+}
+.honda-circle{
+    width: 149px;
+    height: 149px;
+    padding-left: 20px;
+}
+
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color:#FFC014;
+}
+.fa-star.empty{
+    color:#AEAEAE;
+}
+
+
